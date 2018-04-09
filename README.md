@@ -6,9 +6,6 @@ It's a gag app, don't take the styling very seriously it is something I whipped 
 
 ![alt tag](https://imgur.com/h0YQdP1)
 
-![alt tag](https://imgur.com/fiMTODn)
-
-![alt tag](https://imgur.com/ViThjaj)
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript, EJS, React
@@ -23,7 +20,7 @@ You don't have to include this section but interviewers *love* that you can not 
 
 ## Lessons Learned:
 
-The most interesting part was grasping how the back end works. It happened through trail and error. When creating a view and connecting the routes. While updating the browser I received an error message couldn't /get. After getting that message it became clear how the routes and views work and how to connect them to display what it is I would like for my user to see. 
+The most interesting part was grasping how the back end works. It happened through trail and error. When creating a view and connecting the routes. While updating the browser I received an error message couldn't /get. After getting that message it became clear how the routes and views work and how to connect them to display what it is I would like for my user to see.
 
 ## Examples:
 
