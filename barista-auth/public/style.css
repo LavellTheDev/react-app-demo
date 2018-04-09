@@ -7,7 +7,9 @@ font-family: 'Roboto Slab', serif;
 a{
 color: black;
 }
-
+h1{
+  color: black;
+}
 .profileBody{
 word-wrap:break-word;
 color: #C5D1C1;
