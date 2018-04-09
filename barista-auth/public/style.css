@@ -1,0 +1,74 @@
+*{
+text-align: center;
+list-style: none;
+font-family: 'Roboto Slab', serif;
+}
+
+a{
+color: black;
+}
+
+.profileBody{
+word-wrap:break-word;
+color: #C5D1C1;
+background-image: url("https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/07/11/11/harold-0.jpg");
+background-position: center;
+
+}
+img{
+height: 200px;
+}
+
+header{
+height: 100px;
+margin-bottom: 30px;
+}
+
+
+
+select{
+background: #C5D1C1;
+
+}
+
+.drinks{
+margin-bottom: 25px;
+color: black;
+float: left;
+width: 40%;
+background: #E2EFB3;
+box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.16), 10px 50px 50px rgba(0, 0, 0, 0.23);
+}
+.jumbotron{
+  background-image: url("https://cdn.shopify.com/s/files/1/0268/4059/t/2/assets/logo.png?7752968785657658219");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.orderSection{
+width: 40%;
+}
+
+.orderSection button{
+background: #C5D1C1;
+}
+
+.inCoffee, .inName{
+background: #C5D1C1;
+}
+.heyJoe{
+  border-radius: 5px;
+}
+.row{
+width: 50%;
+margin-left: 25%;
+height: 400px;
+}
+
+.well{
+float: right;
+background: rgba(107, 107, 107, 0.7);
+
+border-radius: 5px;
+width: 30%;
+box-shadow: 30px 30px 30px rgba(0, 0, 0, 0.16), 10px 50px 50px rgba(0, 0, 0, 0.23);
+}
