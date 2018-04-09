@@ -4,7 +4,7 @@ It's a gag app, don't take the styling very seriously it is something I whipped 
 
 **Link to project:** COMING SOON
 
-![alt tag](https://imgur.com/h0YQdP1)
+![alt tag](https://i.imgur.com/h0YQdP1.png)
 
 ## How It's Made:
 
